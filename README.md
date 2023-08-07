@@ -1,10 +1,47 @@
 # Project 1: Game Design and Prototype
 
-**Participants:** This project is to be completed in groups of 3-4 people.
-
 **Marks:** This project counts towards 30% of your marks for this subject.
 
 **Due date:** Multiple submissions required; see the [schedule](#schedule) below.
+
+## Table of Contents
+- [Project 1: Game Design and Prototype](#project-1-game-design-and-prototype)
+  - [Table of Contents](#table-of-contents)
+  - [Schedule](#schedule)
+      - [Team submissions](#team-submissions)
+      - [Individual submissions](#individual-submissions)
+  - [Assignment Brief](#assignment-brief)
+    - [Overview](#overview)
+    - [Requirements](#requirements)
+    - [Development Tools](#development-tools)
+  - [Milestone 1: Team Declaration](#milestone-1-team-declaration)
+  - [Milestone 2: Game Design Document](#milestone-2-game-design-document)
+      - [Game Overview](#game-overview)
+      - [**Story and Narrative**](#story-and-narrative)
+      - [**Gameplay and Mechanics**](#gameplay-and-mechanics)
+      - [**Levels and World Design**](#levels-and-world-design)
+      - [**Art and Audio**](#art-and-audio)
+      - [User Interface (UI)](#user-interface-ui)
+      - [Technology and Tools](#technology-and-tools)
+      - [Team Communication, Timelines and Task Assignment](#team-communication-timelines-and-task-assignment)
+      - [Possible Challenges](#possible-challenges)
+    - [Submission](#submission)
+  - [Milestone 3: Unity Prototype](#milestone-3-unity-prototype)
+    - [Submission](#submission-1)
+  - [Milestone 4: Team Member Evaluation](#milestone-4-team-member-evaluation)
+  - [Milestone 5: Team Feedback Reflection](#milestone-5-team-feedback-reflection)
+  - [Assessment](#assessment)
+  - [WebGL Builds](#webgl-builds)
+  - [Gradescope Submissions](#gradescope-submissions)
+  - [Late Submission Policy](#late-submission-policy)
+      - [Team submissions](#team-submissions-1)
+      - [Individual submissions](#individual-submissions-1)
+  - [Academic Honesty](#academic-honesty)
+    - [Use of AI Tools (e.g., ChatGPT)](#use-of-ai-tools-eg-chatgpt)
+    - [Unity Asset Store](#unity-asset-store)
+    - [Credit where credit is due ...](#credit-where-credit-is-due-)
+  - [Resources and Help](#resources-and-help)
+
 ## Schedule
 
 This project is split into a number of milestones, each with its own deadline. The milestones are split into two categories: team and individual. Team milestones are submitted by the team leader on behalf of the team, while individual milestones are submitted by each team member individually.
