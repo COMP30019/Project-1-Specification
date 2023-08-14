@@ -12,8 +12,8 @@ This project is split into a number of milestones, each with its own deadline. T
 #### Team submissions
 
 - [Milestone 1 | Team Declaration](#milestone-1-team-declaration) ... due **Wednesday 9 August, 11.59pm AEST**
-- [Milestone 2 | Game Design Document](#milestone-2-game-design-document) ... due **Sunday 20 August, 11.59pm AEST**
-- [Milestone 3 | Unity Prototype](#milestone-3-unity-prototype) ... due **Friday 1 September, 11.59pm AEST**
+- [Milestone 2 | Game Design Document](#milestone-2-game-design-document) ... due **Sunday 27 August, 11.59pm AEST**
+- [Milestone 3 | Unity Prototype](#milestone-3-unity-prototype) ... due **Sunday 3 September, 11.59pm AEST**
 
 #### Individual submissions
 
@@ -103,7 +103,7 @@ The template Unity project in the repository will be automatically built and dep
 > For all milestone deadlines, including this one, **every team member** is expected to verify that they can see the submission on Gradescope, and that all validation test cases pass. Test cases may differ between milestones. If you're having issues, please contact the teaching team via a private post on the discussion board.
 
 ## Milestone 2: Game Design Document
-**Due: Sunday 20 August, 11.59pm AEST (team submission)**
+**Due: Sunday 27 August, 11.59pm AEST (team submission)**
 
 By this milestone, your team must have **drafted** a Game Design Document (GDD) in the repository's `README.md` file. The GDD should provide a detailed vision of your game, allowing any member of your team (and the teaching team!) to understand exactly what your game will be.
 
@@ -179,7 +179,7 @@ Discuss any potential difficulties you foresee in the project, and how your team
 Once you've completed the final draft of your GDD, remember to commit and push all changes to GitHub, resolve any merge conflicts, and once again ensure that all team members can see the "final draft" on their local machines. Finally, as a team, submit the project repository on Gradescope as per the instructions under the [Gradescope Submissions](#gradescope-submissions) section below, like you did for the first milestone.
 
 ## Milestone 3: Unity Prototype
-**Due: Friday 1 September, 11.59pm AEST (team submission)**
+**Due: Sunday 3 September, 11.59pm AEST (team submission)**
 
 For the third and final team milestone in this project, you will create a Unity prototype that serves as a "proof-of-concept" of your game, reflecting core mechanics outlined in the GDD. The goal of this task is to build a solid foundation to expand on in the next project, where you'll be developing the game in its entirety and evaluating it with end users. 
 
