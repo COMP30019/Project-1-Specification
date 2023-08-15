@@ -141,9 +141,12 @@ This is where you describe how the game works from the player's perspective. Rem
 
 Describe the game world and layout of the game’s level(s), including any necessary sketches or diagrams. Include what the player will see, how they will navigate through the game world, and what they will interact with.
 
-- **Game World:** Describe the game world, and how it is captured on-screen. Is it 2D or 3D? Is it a single screen or does it scroll? Are there multiple levels? How does the player navigate through the game world? Is there a map or minimap?
+- **Game World:** Describe the game world, and how it is captured on-screen. Is it 2D* (see note below) or 3D? Is it a single screen or does it scroll? Are there multiple levels? How does the player navigate through the game world? Is there a map or minimap?
 - **Objects:** What objects are in the game world? What do they look like? What are their roles? How do they interact with the player? How do they interact with each other?
-- **Physics:** What physics are in the game? How do objects move? How do objects interact with each other? 
+- **Physics:** What physics are in the game? How do objects move? How do objects interact with each other?
+
+> **Note**<br> 
+> We recommend avoiding pixel-perfect 2D games unless you are up for an extra challenge in project 2. There will be less flexibility when it comes to choice of shader techniques (you haven't learned much about shaders yet, so it'll be hard to comprehend the implications at this point). A safe middle ground is to restrict the gameplay to two axes, but still render a 3D environment. This is commonly known as "2.5D".
 
 #### **Art and Audio**
 
